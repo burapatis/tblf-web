@@ -3,11 +3,14 @@
 # โครงการการวิจัยและพัฒนากรอบแนวคิดภาวะผู้นำแบบไทยพอดี
 # ============================================================
 
-# เปลี่ยนเป็นโดเมนจริงก่อน deploy เช่น https://tblf.ac.th/
-baseURL = 'https://tblf.example.org/'
+# GitHub Pages (project site): https://burapatis.github.io/tblf-web/
+# เปลี่ยนเป็นโดเมนจริงก่อน deploy production เช่น https://tblf.ac.th/
+baseURL = 'https://burapatis.github.io/tblf-web/'
 languageCode = 'th'
 title = 'ภาวะผู้นำแบบไทยพอดี | Thai Balanced Leadership Framework (TBLF)'
 
+# ให้ลิงก์แบบ /about/ กลายเป็น /tblf-web/about/ บน GitHub Pages (project site)
+canonifyURLs = true
 enableEmoji = true
 
 [permalinks]
