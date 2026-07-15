@@ -8,7 +8,7 @@ baseURL = 'https://tblf.thamdee.com/'
 languageCode = 'th'
 title = 'ภาวะผู้นำแบบไทยพอดี | Thai Balanced Leadership Framework (TBLF)'
 
-# ให้ลิงก์แบบ /about/ กลายเป็น /tblf-web/about/ บน GitHub Pages (project site)
+# Rewrite root-relative links to absolute URLs under baseURL
 canonifyURLs = true
 enableEmoji = true
 
