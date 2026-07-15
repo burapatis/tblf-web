@@ -3,9 +3,8 @@
 # โครงการการวิจัยและพัฒนากรอบแนวคิดภาวะผู้นำแบบไทยพอดี
 # ============================================================
 
-# GitHub Pages (project site): https://burapatis.github.io/tblf-web/
-# เปลี่ยนเป็นโดเมนจริงก่อน deploy production เช่น https://tblf.ac.th/
-baseURL = 'https://burapatis.github.io/tblf-web/'
+# GitHub Pages + custom domain (CNAME): https://tblf.thamdee.com/
+baseURL = 'https://tblf.thamdee.com/'
 languageCode = 'th'
 title = 'ภาวะผู้นำแบบไทยพอดี | Thai Balanced Leadership Framework (TBLF)'
 
