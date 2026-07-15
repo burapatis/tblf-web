@@ -1,0 +1,21 @@
+<header class="site-header">
+  <div class="wrap header-inner">
+    <a class="brand" href="{{ "/" | relURL }}">
+      <span class="brand-mark" aria-hidden="true"><i></i><i></i><i></i><i></i></span>
+      <span class="brand-text">
+        <strong>ภาวะผู้นำแบบไทยพอดี</strong>
+        <small>Thai Balanced Leadership Framework</small>
+      </span>
+    </a>
+    <input type="checkbox" id="nav-toggle" class="nav-toggle" aria-hidden="true">
+    <label for="nav-toggle" class="nav-burger" aria-label="เปิด/ปิดเมนู"><span></span><span></span><span></span></label>
+    <nav class="site-nav" aria-label="เมนูหลัก">
+      <ul>
+        {{ $current := . }}
+        {{ range .Site.Menus.main }}
+        <li><a href="{{ .URL | relURL }}" {{ if $current.IsMenuCurrent "main" . }}class="active" aria-current="page"{{ end }}>{{ .Name }}</a></li>
+        {{ end }}
+      </ul>
+    </nav>
+  </div>
+</header>

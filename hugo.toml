@@ -1,0 +1,59 @@
+# ============================================================
+# TBLF Knowledge Hub — Hugo Configuration (Custom Design)
+# โครงการการวิจัยและพัฒนากรอบแนวคิดภาวะผู้นำแบบไทยพอดี
+# ============================================================
+
+# เปลี่ยนเป็นโดเมนจริงก่อน deploy เช่น https://tblf.ac.th/
+baseURL = 'https://tblf.example.org/'
+languageCode = 'th'
+title = 'ภาวะผู้นำแบบไทยพอดี | Thai Balanced Leadership Framework (TBLF)'
+
+enableEmoji = true
+
+[permalinks]
+  news = '/news/:year/:slug/'
+
+[taxonomies]
+  category = 'categories'
+  tag = 'tags'
+
+[params]
+  description = 'ศูนย์กลางองค์ความรู้โครงการการวิจัยและพัฒนากรอบแนวคิดภาวะผู้นำแบบไทยพอดี (Thai Balanced Leadership Framework: TBLF) — กรอบแนวคิดภาวะผู้นำทางการบริหารการศึกษาที่บูรณาการหลักวิชาการสากลกับบริบทไทย'
+  charter = 'Foundation Charter v1.0'
+
+[menu]
+  [[menu.main]]
+    name = 'เกี่ยวกับโครงการ'
+    url = '/about/'
+    weight = 10
+  [[menu.main]]
+    name = 'กรอบแนวคิด'
+    url = '/framework/'
+    weight = 20
+  [[menu.main]]
+    name = 'การวิจัย'
+    url = '/research/'
+    weight = 30
+  [[menu.main]]
+    name = 'ผลผลิตและดาวน์โหลด'
+    url = '/outputs/'
+    weight = 40
+  [[menu.main]]
+    name = 'สื่อการเรียนรู้'
+    url = '/resources/'
+    weight = 50
+  [[menu.main]]
+    name = 'ข่าวสาร'
+    url = '/news/'
+    weight = 60
+  [[menu.main]]
+    name = 'ติดต่อ'
+    url = '/contact/'
+    weight = 70
+
+[markup]
+  [markup.goldmark.renderer]
+    unsafe = true
+  [markup.tableOfContents]
+    startLevel = 2
+    endLevel = 2

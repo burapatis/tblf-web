@@ -1,0 +1,4 @@
+<li><a href="{{ .Get "href" }}" {{ if .Get "download" }}download{{ end }}>
+  <span class="dl-ic">{{ with .Get "ext" }}{{ . }}{{ else }}PDF{{ end }}</span>
+  <span><b>{{ .Get "title" }}</b><small>{{ .Get "note" }}</small></span>
+</a></li>

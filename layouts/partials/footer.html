@@ -1,0 +1,29 @@
+<footer class="site-footer">
+  <div class="wrap footer-grid">
+    <div>
+      <p class="footer-brand">ภาวะผู้นำแบบไทยพอดี <span>TBLF</span></p>
+      <p class="footer-note">โครงการการวิจัยและพัฒนากรอบแนวคิดภาวะผู้นำแบบไทยพอดี — องค์ความรู้ที่ตั้งอยู่บนหลักวิชาการสากลและบริบทของสังคมไทย เปิดกว้างต่อการตรวจสอบ การวิพากษ์ และการพัฒนาต่อยอด</p>
+    </div>
+    <nav aria-label="ลิงก์ด่วน">
+      <p class="footer-head">สำรวจ</p>
+      <ul>
+        <li><a href="{{ "/framework/" | relURL }}">กรอบแนวคิด TBLF</a></li>
+        <li><a href="{{ "/research/" | relURL }}">กระบวนการวิจัย 10 ระยะ</a></li>
+        <li><a href="{{ "/outputs/#downloads" | relURL }}">ดาวน์โหลดเอกสาร</a></li>
+        <li><a href="{{ "/news/" | relURL }}">ข่าวสารและกิจกรรม</a></li>
+      </ul>
+    </nav>
+    <nav aria-label="ช่วยเหลือ">
+      <p class="footer-head">ทำความเข้าใจ</p>
+      <ul>
+        <li><a href="{{ "/resources/learn/" | relURL }}">เข้าใจ TBLF ฉบับเข้าใจง่าย</a></li>
+        <li><a href="{{ "/faq/" | relURL }}">คำถามที่พบบ่อย</a></li>
+        <li><a href="{{ "/glossary/" | relURL }}">อภิธานศัพท์</a></li>
+        <li><a href="{{ "/contact/" | relURL }}">ติดต่อและเครือข่าย</a></li>
+      </ul>
+    </nav>
+  </div>
+  <div class="wrap footer-base">
+    <p>© {{ now.Year }} โครงการภาวะผู้นำแบบไทยพอดี · เอกสารอ้างอิงหลัก: {{ .Site.Params.charter }}</p>
+  </div>
+</footer>

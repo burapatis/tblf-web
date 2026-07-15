@@ -1,0 +1,13 @@
+{{ define "main" }}
+<section class="page-hero">
+  <div class="wrap">
+    <p class="eyebrow">{{ .Date.Format "2 January 2006" }}{{ with .Params.categories }} · {{ delimit . " · " }}{{ end }}</p>
+    <h1>{{ .Title }}</h1>
+  </div>
+</section>
+<article class="prose">
+  {{ .Content }}
+  <hr>
+  <p><a href="{{ "/news/" | relURL }}">← กลับไปหน้าข่าวสารทั้งหมด</a></p>
+</article>
+{{ end }}

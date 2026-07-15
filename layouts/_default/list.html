@@ -1,0 +1,19 @@
+{{ define "main" }}
+<section class="page-hero">
+  <div class="wrap">
+    {{ with .Params.eyebrow }}<p class="eyebrow">{{ . }}</p>{{ end }}
+    <h1>{{ .Title }}</h1>
+    {{ with .Description }}<p>{{ . }}</p>{{ end }}
+  </div>
+</section>
+<div class="news-list">
+  {{ .Content }}
+  {{ range .Pages.ByDate.Reverse }}
+  <a class="news-card" href="{{ .RelPermalink }}">
+    <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "2 January 2006" }}</time>
+    <h3>{{ .Title }}</h3>
+    <p>{{ .Summary | plainify | truncate 140 }}</p>
+  </a>
+  {{ end }}
+</div>
+{{ end }}

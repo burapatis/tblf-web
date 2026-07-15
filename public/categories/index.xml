@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Categories on ภาวะผู้นำแบบไทยพอดี | Thai Balanced Leadership Framework (TBLF)</title>
+		<link>http://localhost:1313/categories/</link>
+		<description>Recent content in Categories on ภาวะผู้นำแบบไทยพอดี | Thai Balanced Leadership Framework (TBLF)</description>
+		<generator>Hugo</generator>
+		<language>th</language>
+		
+		
+		
+		
+			<lastBuildDate>Wed, 15 Jul 2026 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>ผลผลิตใหม่</title>
+				<link>http://localhost:1313/categories/%E0%B8%9C%E0%B8%A5%E0%B8%9C%E0%B8%A5%E0%B8%B4%E0%B8%95%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88/</link>
+				<pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/categories/%E0%B8%9C%E0%B8%A5%E0%B8%9C%E0%B8%A5%E0%B8%B4%E0%B8%95%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>ความก้าวหน้าโครงการ</title>
+				<link>http://localhost:1313/categories/%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%81%E0%B9%89%E0%B8%B2%E0%B8%A7%E0%B8%AB%E0%B8%99%E0%B9%89%E0%B8%B2%E0%B9%82%E0%B8%84%E0%B8%A3%E0%B8%87%E0%B8%81%E0%B8%B2%E0%B8%A3/</link>
+				<pubDate>Tue, 14 Jul 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/categories/%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%81%E0%B9%89%E0%B8%B2%E0%B8%A7%E0%B8%AB%E0%B8%99%E0%B9%89%E0%B8%B2%E0%B9%82%E0%B8%84%E0%B8%A3%E0%B8%87%E0%B8%81%E0%B8%B2%E0%B8%A3/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>ประกาศ</title>
+				<link>http://localhost:1313/categories/%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%B2%E0%B8%A8/</link>
+				<pubDate>Sat, 11 Jul 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/categories/%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%B2%E0%B8%A8/</guid>
+				<description></description>
+			</item>
+	</channel>
+</rss>
