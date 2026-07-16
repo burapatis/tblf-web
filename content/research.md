@@ -64,10 +64,11 @@ url: /research/
 |---|---|---|
 | ระยะที่ 1–2 ศึกษาสังเคราะห์และพัฒนากรอบแนวคิด | **ดำเนินการแล้ว** | การสังเคราะห์วรรณกรรม 7 สาขา + Integrated Synthesis |
 | ระยะที่ 3 ตรวจสอบความตรงเชิงเนื้อหา | **ดำเนินการแล้ว** | AI-assisted Expert Review + Human Expert Review (BRS v0.2.1 → v0.3) |
-| ระยะที่ 4–5 พัฒนาแบบจำลองและตรวจสอบเชิงประจักษ์ | **ระยะถัดไป** | การพัฒนาเครื่องมือวัดบนฐาน BRS-01 v0.3 และการเก็บข้อมูลภาคสนาม |
-| ระยะที่ 6–10 ปรับปรุง ทดลองใช้ ยกระดับสู่ TBLT | รอดำเนินการ | ยึด Evidence-driven Revision Rule |
+| ระยะที่ 4–5 พัฒนาแบบจำลองและตรวจสอบเชิงประจักษ์ | **กำลังดำเนินการ** | เผยแพร่ [Learning Toolkit v1.1](/resources/toolkit/) — โครงสร้างพื้นฐานการเก็บหลักฐานภาคสนาม (Decision Log, AAR, Observer Form, Decision Repository, Coding Manual, Evidence Matrix) |
+| ระยะที่ 6–7 ปรับปรุงและทดลองใช้ | **เริ่มแล้ว — Pilot รอบ 1–2 เสร็จสิ้น** | ผล Pilot ยืนยันการยอมรับสูง → ปรับปรุงเป็น **TBLF v0.4 (Practitioner-Validated Development Edition)** พร้อม Decision Card v0.2 และ Casebook v0.2 |
+| ระยะที่ 8–10 ยกระดับสู่ TBLT | รอหลักฐานเพียงพอ | สะสมหลักฐานผ่าน Evidence Matrix (เกณฑ์ระดับ A) ยึด Evidence-driven Revision Rule |
 
-องค์ประกอบทุกส่วนของกรอบระบุรหัสแหล่งที่มา **L + S + E + H** (Literature Review + Integrated Synthesis + AI-assisted Expert Review + Human Expert Review) เพื่อความสามารถในการตรวจสอบย้อนกลับ โดยการตรวจสอบด้วยข้อมูลภาคสนาม (Field Validation) ยังอยู่ระหว่างดำเนินการ
+องค์ประกอบทุกส่วนของกรอบระบุรหัสแหล่งที่มา **L + S + E + H** (Literature Review + Integrated Synthesis + AI-assisted Expert Review + Human Expert Review) และ TBLF v0.4 เพิ่มชั้นหลักฐานจากผู้ใช้จริง (Practitioner Validation) — การตรวจสอบภาคสนามเต็มรูปแบบดำเนินการผ่าน **Workflow 8 ขั้นของ Learning Toolkit v1.1**: Decision Log → ดำเนินการ → AAR → Workshop → Coding (15 รหัสมาตรฐาน) → Evidence Matrix → วิเคราะห์ Patterns/Mechanisms/Boundary Conditions → ปรับปรุง TBLF และสะสมหลักฐานเพื่อ TBLT โดยใช้เกณฑ์ความแข็งแรงของหลักฐาน 3 ระดับ (A: พบซ้ำหลายบริบท — พร้อมเสนอเป็นข้อเสนอเชิงทฤษฎี, B: พบซ้ำบางบริบท, C: พบเฉพาะบางกรณี)
 
 ## ข้อกำหนดเพื่อการวิจัย จาก BRS-01 v0.3 {#research-spec}
 

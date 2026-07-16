@@ -20,9 +20,9 @@ url: /contact/
 
 ## ช่องทางติดต่อ
 
-- **ผู้จัดทำ:** Boorapatis Ploysuwan — ผู้วิจัยอิสระ ที่สนใจและตั้งใจสร้างสรรค์สิ่งที่เป็นประโยชน์ต่อการศึกษาและการเรียนรู้ของเด็กและสังคมไทย
-- **อีเมล:** [burapatis@gmail.com](mailto:burapatis@gmail.com) — ติดต่อ ข้อเสนอแนะ หรือแจ้งข้อผิดพลาด/คลาดเคลื่อนของเว็บไซต์
-- **เว็บไซต์หลัก:** [thamdee.com](https://thamdee.com/)
+- **ผู้วิจัย:** Boorapatis Ploysuwan (ผู้วิจัยอิสระ)
+- **อีเมล:** [burapatis@gmail.com](mailto:burapatis@gmail.com)
+- **เว็บไซต์:** [www.tblf.thamdee.com](https://www.tblf.thamdee.com/)
 
 ## แผนการสร้างเครือข่ายในระยะถัดไป
 

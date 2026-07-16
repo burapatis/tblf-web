@@ -57,7 +57,7 @@ Build command: `hugo --minify` / Publish directory: `public` → Add custom doma
 
 ### ก่อน deploy ทุกครั้ง
 
-- แก้ `baseURL` ใน `hugo.toml` ให้เป็นโดเมนจริง เช่น `https://tblf.ac.th/`
+- `baseURL` ตั้งเป็นโดเมนจริงแล้ว: `https://www.tblf.thamdee.com/` (แก้ใน `hugo.toml` หากเปลี่ยนโดเมน)
 - HTTPS: ผู้ให้บริการข้างต้นออกใบรับรอง SSL ให้อัตโนมัติ
 
 ---
@@ -83,8 +83,9 @@ tblf-site/
 │   ├── outputs.md             # ผลผลิต + ศูนย์ดาวน์โหลด
 │   ├── resources.md           # สื่อการเรียนรู้และเครื่องมือ (หน้ารวม)
 │   ├── learn.md               # เข้าใจ TBLF ฉบับเข้าใจง่าย (/resources/learn/)
-│   ├── decision-card.md       # TBLF Decision Card (/resources/decision-card/)
-│   ├── casebook.md            # TBLF Casebook v0.1 (/resources/casebook/)
+│   ├── decision-card.md       # TBLF Decision Card v0.2 (/resources/decision-card/)
+│   ├── casebook.md            # TBLF Casebook v0.2 — 14 กรณี (/resources/casebook/)
+│   ├── toolkit.md             # TBLF Learning Toolkit v1.1 (/resources/toolkit/)
 │   ├── faq.md / glossary.md / contact.md
 │   └── news/                  # ข่าว ตั้งชื่อ YYYY-MM-slug.md
 └── static/
@@ -147,4 +148,3 @@ tags: ["อบรม"]
 - **วงจรอัปเดต:** ผลผลิตพร้อมเผยแพร่ → อัปเดตสถานะใน `outputs.md`/`resources.md` → วาง PDF ใน `downloads/` → โพสต์ข่าวใน `news/`
 - **ทบทวนความสอดคล้อง:** เมื่อ TBLF/TBLT ปรับรุ่น ให้ทบทวน framework.md, outputs.md, resources.md, glossary.md พร้อมกัน
 - **ไม่มีธีมภายนอกให้ต้องอัปเดต** — โค้ดทั้งหมดอยู่ในโปรเจกต์ ควบคุมได้ 100%
-# tblf-web

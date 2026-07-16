@@ -434,7 +434,7 @@ h1,h2,h3,h4{font-family:var(--font-display);line-height:1.35;color:var(--indigo-
 }
 
 /* ---------- การ์ดสื่อเรียนรู้ (หน้าแรก) ---------- */
-.learn-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:1.2rem}
+.learn-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(230px,1fr));gap:1.2rem}
 .learn-card{
   background:var(--card);border:1px solid var(--line);border-radius:var(--radius);
   overflow:hidden;box-shadow:var(--shadow);text-decoration:none;display:flex;flex-direction:column;
@@ -442,7 +442,7 @@ h1,h2,h3,h4{font-family:var(--font-display);line-height:1.35;color:var(--indigo-
 }
 .learn-card:hover{transform:translateY(-4px)}
 .learn-card img{
-  width:100%;height:260px;object-fit:cover;object-position:top center;
+  width:100%;height:230px;object-fit:cover;object-position:top center;
   border-bottom:2px solid var(--gold);background:#EDF1F6;
 }
 .learn-body{padding:1.15rem 1.25rem 1.3rem;display:flex;flex-direction:column;gap:.35rem}
