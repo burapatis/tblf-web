@@ -1,7 +1,7 @@
 ---
 title: "เข้าใจ TBLF ฉบับเข้าใจง่าย"
-eyebrow: "Executive Summary · Pilot Edition v0.2"
-description: "ภาวะผู้นำแบบไทยพอดีคืออะไร ทำงานอย่างไรใน 4 ขั้น ดู–คิด–ทำ–เรียนรู้ พร้อมตัวอย่างและ Infographic — ฉบับภาษาเข้าใจง่ายสำหรับผู้บริหารและผู้สนใจทั่วไป"
+eyebrow: "Executive Summary · TBLF v0.4"
+description: "ภาวะผู้นำแบบไทยพอดีคืออะไร ทำงานอย่างไรใน 4 ขั้น ดู–คิด–ทำ–เรียนรู้ พร้อมตัวอย่างและ Infographic TBLF v0.4 — ฉบับภาษาเข้าใจง่ายสำหรับผู้บริหารและผู้สนใจทั่วไป"
 url: /resources/learn/
 ---
 
@@ -78,12 +78,13 @@ TBLF ผ่านการทดลองนำร่องกับผู้ใ
 
 ## Infographic สรุปฉบับเข้าใจง่าย
 
-{{< figure-info src="/images/infographic-executive-summary-v0-2.png" alt="Infographic สรุป Thai Balanced Leadership Framework Executive Summary Pilot Edition v0.2" caption="TBLF Executive Summary (Pilot Edition v0.2)" >}}
+{{< figure-info src="/images/infographic-tblf-v0-4.png" alt="Infographic สรุป Thai Balanced Leadership Framework TBLF v0.4 Practitioner-Validated Development Edition" caption="TBLF v0.4 — Practitioner-Validated Development Edition (ฉบับเข้าใจง่ายล่าสุด)" >}}
 
 {{< downloads >}}
-{{< dl href="/images/infographic-executive-summary-v0-2.png" title="Infographic: TBLF Executive Summary v0.2" note="ภาพสรุปฉบับเข้าใจง่าย เหมาะสำหรับเผยแพร่และประกอบการอบรม" ext="PNG" download="true" >}}
+{{< dl href="/images/infographic-tblf-v0-4.png" title="Infographic: TBLF v0.4 (ฉบับล่าสุด)" note="ภาพสรุปฉบับเข้าใจง่าย — ดูให้รอบ คิดให้สมดุล ทำอย่างรับผิดชอบ เรียนรู้จากผลจริง" ext="PNG" download="true" >}}
+{{< dl href="/images/infographic-executive-summary-v0-2.png" title="Infographic: Executive Summary Pilot v0.2 (รุ่นก่อนหน้า)" note="เก็บไว้เพื่อการอ้างอิงตามหลักการบริหารรุ่นเอกสาร" ext="PNG" download="true" >}}
 {{< /downloads >}}
 
 {{< hint info >}}
-**ขั้นต่อไป** — ลองใช้ [TBLF Decision Card](/resources/decision-card/) เป็นรายการตรวจสอบก่อนตัดสินใจจริง หรือศึกษา[กรอบแนวคิดฉบับเต็ม BRS-01 v0.3](/framework/)
+**ขั้นต่อไป** — ลองใช้ [TBLF Decision Card v0.2](/resources/decision-card/) เป็นรายการตรวจสอบก่อนตัดสินใจจริง ศึกษา[กรอบแนวคิดฉบับเต็ม TBLF v0.4](/framework/) หรือทดลองใช้ [Learning Toolkit v1.1](/resources/toolkit/)
 {{< /hint >}}

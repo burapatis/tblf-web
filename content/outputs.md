@@ -80,7 +80,7 @@ url: /outputs/
 **รุ่นก่อนหน้า (เก็บไว้เพื่อการอ้างอิง)**
 
 {{< downloads >}}
-{{< dl href="/images/infographic-executive-summary-v0-2.png" title="Infographic: TBLF Executive Summary (Pilot v0.2)" note="สรุปกรอบแนวคิดฉบับเข้าใจง่าย" ext="PNG" download="true" >}}
+{{< dl href="/images/infographic-executive-summary-v0-2.png" title="Infographic: TBLF Executive Summary (Pilot v0.2)" note="รุ่นก่อนหน้า — สรุปฉบับเข้าใจง่ายช่วง Pilot" ext="PNG" download="true" >}}
 {{< dl href="/images/infographic-decision-card.png" title="Infographic: TBLF Decision Card v0.1" note="รุ่นก่อนหน้า" ext="PNG" download="true" >}}
 {{< dl href="/images/infographic-casebook-v0-1.png" title="Infographic: TBLF Casebook v0.1" note="รุ่นก่อนหน้า (8 กรณี)" ext="PNG" download="true" >}}
 {{< /downloads >}}

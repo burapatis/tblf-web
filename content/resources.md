@@ -11,7 +11,7 @@ url: /resources/
 
 | สื่อ | เหมาะสำหรับ | สถานะ |
 |---|---|---|
-| [**เข้าใจ TBLF ฉบับเข้าใจง่าย**](/resources/learn/) (Executive Summary) | ทำความเข้าใจแนวคิดใน 5 นาที ด้วยภาษาเรียบง่ายและวงจร "ดู คิด ทำ เรียนรู้" | **เผยแพร่แล้ว** พร้อม Infographic |
+| [**เข้าใจ TBLF ฉบับเข้าใจง่าย**](/resources/learn/) (Executive Summary · **TBLF v0.4**) | ทำความเข้าใจแนวคิดใน 5 นาที ด้วยภาษาเรียบง่ายและวงจร "ดู คิด ทำ เรียนรู้" | **เผยแพร่แล้ว** พร้อม Infographic v0.4 |
 | [**TBLF Decision Card v0.2**](/resources/decision-card/) | Full Card 21 ข้อสำหรับสถานการณ์ทั่วไป + **Mini Card 5 คำถามใน 60 วินาที**สำหรับสถานการณ์เร่งด่วน | **เผยแพร่แล้ว** พร้อม Infographic |
 | [**TBLF Casebook v0.2**](/resources/casebook/) (Practitioner Edition) | เรียนรู้จากกรณีศึกษา **14 กรณี** ครอบคลุมโรงเรียนทุกขนาด สกร. เอกชน อปท. ระดับเขต การศึกษาพิเศษ และภาวะวิกฤต | **เผยแพร่แล้ว** พร้อม Infographic |
 | [**TBLF Learning Toolkit v1.1**](/resources/toolkit/) | ทดลองใช้จริงและเก็บหลักฐานภาคสนาม — Decision Log, AAR, Workshop 90 นาที, Observer Form, Decision Repository + Coding Manual + Evidence Matrix | **เผยแพร่แล้ว** พร้อม Infographic |
