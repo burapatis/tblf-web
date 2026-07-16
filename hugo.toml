@@ -4,7 +4,7 @@
 # ============================================================
 
 # โดเมนจริงของโครงการ (ตามเอกสาร TBLF v0.4)
-baseURL = 'https://www.tblf.thamdee.com/'
+baseURL = 'https://tblf.thamdee.com/'
 languageCode = 'th'
 title = 'ภาวะผู้นำแบบไทยพอดี | Thai Balanced Leadership Framework (TBLF)'
 
