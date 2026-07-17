@@ -161,7 +161,7 @@ url: /resources/casebook/
 4. ความเสี่ยงและ Plan B คืออะไร?
 5. ตัวชี้วัดที่ใช้ติดตามผลคืออะไร?
 
-นำ Casebook ไปใช้จัดการอบรมได้ทันทีด้วยรูปแบบ **Case-based Workshop 90 นาที** ใน [TBLF Learning Toolkit](/resources/toolkit/)
+นำ Casebook ไปใช้จัดการอบรมได้ทันทีด้วยรูปแบบ **Case-based Workshop 90 นาที** ใน [TBLF Learning Toolkit](/resources/toolkit/) — และดู[ตัวอย่าง Decision Log ที่บันทึกครบวงจรจริง 8 กรณี](/resources/decision-logs/) เพื่อเห็นภาพการนำกรณีศึกษาไปสู่การบันทึกและวิเคราะห์หลักฐาน
 
 ## จาก v0.1 สู่ v0.2: Living Casebook ที่เกิดขึ้นจริง
 

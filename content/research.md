@@ -64,7 +64,7 @@ url: /research/
 |---|---|---|
 | ระยะที่ 1–2 ศึกษาสังเคราะห์และพัฒนากรอบแนวคิด | **ดำเนินการแล้ว** | การสังเคราะห์วรรณกรรม 7 สาขา + Integrated Synthesis |
 | ระยะที่ 3 ตรวจสอบความตรงเชิงเนื้อหา | **ดำเนินการแล้ว** | AI-assisted Expert Review + Human Expert Review (BRS v0.2.1 → v0.3) |
-| ระยะที่ 4–5 พัฒนาแบบจำลองและตรวจสอบเชิงประจักษ์ | **กำลังดำเนินการ** | เผยแพร่ [Learning Toolkit v1.1](/resources/toolkit/) — โครงสร้างพื้นฐานการเก็บหลักฐานภาคสนาม (Decision Log, AAR, Observer Form, Decision Repository, Coding Manual, Evidence Matrix) |
+| ระยะที่ 4–5 พัฒนาแบบจำลองและตรวจสอบเชิงประจักษ์ | **กำลังดำเนินการ** | เผยแพร่ [Learning Toolkit v1.1](/resources/toolkit/) — โครงสร้างพื้นฐานการเก็บหลักฐานภาคสนาม พร้อม[ตัวอย่าง Decision Log ครบวงจร 8 กรณี](/resources/decision-logs/) ที่สาธิตการบันทึก การ Coding และ Evidence Matrix ใน 8 บริบทต่างสังกัด |
 | ระยะที่ 6–7 ปรับปรุงและทดลองใช้ | **เริ่มแล้ว — Pilot รอบ 1–2 เสร็จสิ้น** | ผล Pilot ยืนยันการยอมรับสูง → ปรับปรุงเป็น **TBLF v0.4 (Practitioner-Validated Development Edition)** พร้อม Decision Card v0.2 และ Casebook v0.2 |
 | ระยะที่ 8–10 ยกระดับสู่ TBLT | รอหลักฐานเพียงพอ | สะสมหลักฐานผ่าน Evidence Matrix (เกณฑ์ระดับ A) ยึด Evidence-driven Revision Rule |
 

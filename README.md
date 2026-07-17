@@ -86,6 +86,9 @@ tblf-site/
 │   ├── decision-card.md       # TBLF Decision Card v0.2 (/resources/decision-card/)
 │   ├── casebook.md            # TBLF Casebook v0.2 — 14 กรณี (/resources/casebook/)
 │   ├── toolkit.md             # TBLF Learning Toolkit v1.1 (/resources/toolkit/)
+│   ├── checklist.md           # TBLF Operational Checklist v1.0 (/resources/checklist/)
+│   ├── decision-logs-hub.md   # หน้ารวมตัวอย่าง Decision Log (/resources/decision-logs/)
+│   ├── dl-01.md … dl-08.md    # ตัวอย่าง Decision Log รายกรณี 8 หน้า
 │   ├── faq.md / glossary.md / contact.md
 │   └── news/                  # ข่าว ตั้งชื่อ YYYY-MM-slug.md
 └── static/

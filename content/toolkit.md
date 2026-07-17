@@ -36,6 +36,10 @@ url: /resources/toolkit/
 | **E. ทำ** | ผู้รับผิดชอบ · การสื่อสาร · ความเสี่ยง · Plan B · ตัวชี้วัด |
 | **F. ผลที่คาดหวัง** | ผลระยะสั้น · ผลระยะยาว |
 
+{{< hint info >}}
+**ดูตัวอย่างการใช้จริง** — [ตัวอย่าง TBLF Decision Log ครบวงจร 8 กรณี](/resources/decision-logs/) จากบริบท สพฐ. เขตพื้นที่ อปท. สกร. เอกชน และอาชีวศึกษา — แต่ละกรณีแสดงครบตั้งแต่ ดู–คิด–ทำ ไปจนถึง Coding และ Evidence Matrix
+{{< /hint >}}
+
 ## เครื่องมือที่ 2: TBLF After Action Review (AAR)
 
 ทบทวนหลังดำเนินการด้วยคำถาม 5 ข้อ
@@ -125,4 +129,4 @@ url: /resources/toolkit/
 {{< dl href="/images/infographic-toolkit-v1-0.png" title="Infographic: TBLF Learning Toolkit v1.0" note="ภาพรวมเครื่องมือ 5 ชิ้นและ Workflow ภาคสนาม" ext="PNG" download="true" >}}
 {{< /downloads >}}
 
-สถานศึกษาหรือหน่วยงานที่สนใจร่วมทดลองใช้และส่งหลักฐานเข้าสู่ Decision Repository [ติดต่อทีมโครงการ](/contact/)
+ต้องการรายการตรวจสอบละเอียดรายขั้นสำหรับกำกับการดำเนินงาน ใช้ [TBLF Operational Checklist v1.0 — 87 รายการใน 4 ขั้น](/resources/checklist/) ควบคู่กับ Toolkit นี้ · สถานศึกษาหรือหน่วยงานที่สนใจร่วมทดลองใช้และส่งหลักฐานเข้าสู่ Decision Repository [ติดต่อทีมโครงการ](/contact/)

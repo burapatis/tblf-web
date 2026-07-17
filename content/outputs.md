@@ -14,12 +14,12 @@ url: /outputs/
 | 1 | รายงานวิจัยและพัฒนา (R&D) | องค์ความรู้หลัก | อยู่ระหว่างดำเนินการ |
 | 2 | Thai Balanced Leadership Framework (TBLF) | องค์ความรู้หลัก | **v0.4 Practitioner-Validated Development Edition** (ฐานวิจัย: BRS-01 v0.3) |
 | 3 | Thai Balanced Leadership Theory (TBLT) ฉบับตั้งต้น | องค์ความรู้หลัก | อยู่ระหว่างพัฒนา |
-| 4 | เครื่องมือวัดภาวะผู้นำแบบไทยพอดี | เครื่องมือและการใช้ | เผยแพร่ [Learning Toolkit v1.1](/resources/toolkit/) (เครื่องมือภาคสนาม) แล้ว — เครื่องมือวัดมาตรฐานอยู่ระหว่างพัฒนา |
-| 5 | คู่มือการประยุกต์ใช้ | เครื่องมือและการใช้ | เผยแพร่ [Decision Card v0.2](/resources/decision-card/) · [Casebook v0.2 (14 กรณี)](/resources/casebook/) · [Toolkit v1.1](/resources/toolkit/) แล้ว — ฉบับสมบูรณ์อยู่ระหว่างจัดทำ |
+| 4 | เครื่องมือวัดภาวะผู้นำแบบไทยพอดี | เครื่องมือและการใช้ | เผยแพร่ [Learning Toolkit v1.1](/resources/toolkit/) พร้อม[ตัวอย่าง Decision Log 8 กรณี](/resources/decision-logs/) แล้ว — เครื่องมือวัดมาตรฐานอยู่ระหว่างพัฒนา |
+| 5 | คู่มือการประยุกต์ใช้ | เครื่องมือและการใช้ | เผยแพร่ [Decision Card v0.2](/resources/decision-card/) · [Casebook v0.2 (14 กรณี)](/resources/casebook/) · [Toolkit v1.1](/resources/toolkit/) · [Operational Checklist v1.0 (87 รายการ)](/resources/checklist/) แล้ว — ฉบับสมบูรณ์อยู่ระหว่างจัดทำ |
 | 6 | หลักสูตรอบรมผู้บริหารสถานศึกษา | เครื่องมือและการใช้ | อยู่ระหว่างออกแบบ |
 | 7 | หนังสือวิชาการ | การเผยแพร่ | อยู่ระหว่างเรียบเรียง |
 | 8 | เว็บไซต์ฐานองค์ความรู้ | การเผยแพร่ | **เปิดใช้งานแล้ว** |
-| 9 | ชุด Infographic และสื่อการเรียนรู้ | การเผยแพร่ | **เผยแพร่แล้ว 7 ชิ้น** — ชุดปัจจุบัน 4 + รุ่นก่อนหน้า 3 ([ดูทั้งหมด](/resources/)) |
+| 9 | ชุด Infographic และสื่อการเรียนรู้ | การเผยแพร่ | **เผยแพร่แล้ว 11 ชิ้น** — ชุดปัจจุบัน 8 (รวม Checklist 4 ขั้น) + รุ่นก่อนหน้า 3 ([ดูทั้งหมด](/resources/)) |
 | 10 | บทความวิจัยระดับชาติและนานาชาติ | การเผยแพร่ | อยู่ระหว่างจัดทำ |
 
 ## ผลลัพธ์ที่คาดหวัง
@@ -66,6 +66,7 @@ url: /outputs/
 {{< dl href="/downloads/tblf-decision-card-v0-2.pdf" title="TBLF Decision Card v0.2" note="ฉบับเต็ม + Mini Card สำหรับสถานการณ์เร่งด่วน" >}}
 {{< dl href="/downloads/tblf-casebook-v0-2.pdf" title="TBLF Casebook v0.2 — Practitioner Edition" note="กรณีศึกษา 14 กรณี พร้อมแบบบันทึกท้ายกรณี" >}}
 {{< dl href="/downloads/tblf-learning-toolkit-v1-1.pdf" title="TBLF Learning Toolkit v1.1" note="เครื่องมือภาคสนาม 5 ชิ้น + Coding Manual + Evidence Matrix" >}}
+{{< dl href="/downloads/tblf-operational-checklist-v1-0.pdf" title="TBLF Operational Checklist v1.0" note="แบบตรวจสอบการดำเนินงาน 4 ขั้น 87 รายการ ฉบับพิมพ์ใช้งาน" >}}
 {{< /downloads >}}
 
 **ชุด Infographic ปัจจุบัน (เผยแพร่แล้ว)**
@@ -75,6 +76,10 @@ url: /outputs/
 {{< dl href="/images/infographic-decision-card-v0-2.png" title="Infographic: TBLF Decision Card v0.2" note="Full Card + Mini Card 5 คำถามใน 60 วินาที" ext="PNG" download="true" >}}
 {{< dl href="/images/infographic-casebook-v0-2.png" title="Infographic: TBLF Casebook v0.2" note="กรณีศึกษา 14 กรณีครอบคลุมหลากหลายบริบท" ext="PNG" download="true" >}}
 {{< dl href="/images/infographic-toolkit-v1-0.png" title="Infographic: TBLF Learning Toolkit" note="เครื่องมือภาคสนาม 5 ชิ้น + Workflow 8 ขั้น" ext="PNG" download="true" >}}
+{{< dl href="/images/infographic-checklist-1-observe.png" title="Infographic: Checklist ขั้นดู" note="16 กิจกรรมสำคัญของขั้นดู" ext="PNG" download="true" >}}
+{{< dl href="/images/infographic-checklist-2-reflect.png" title="Infographic: Checklist ขั้นคิด" note="21 กิจกรรมสำคัญของขั้นคิด + แบบตรวจฐานกำกับ 5 ประการ" ext="PNG" download="true" >}}
+{{< dl href="/images/infographic-checklist-3-act.png" title="Infographic: Checklist ขั้นทำ" note="27 กิจกรรมสำคัญของขั้นทำ + กลไกสนับสนุน 5 ด้าน" ext="PNG" download="true" >}}
+{{< dl href="/images/infographic-checklist-4-learn.png" title="Infographic: Checklist ขั้นเรียนรู้" note="23 กิจกรรมสำคัญของขั้นเรียนรู้ + ผลลัพธ์ที่คาดหวัง 5 ด้าน" ext="PNG" download="true" >}}
 {{< /downloads >}}
 
 **รุ่นก่อนหน้า (เก็บไว้เพื่อการอ้างอิง)**
@@ -86,7 +91,7 @@ url: /outputs/
 {{< /downloads >}}
 
 {{< hint warning >}}
-**สำหรับผู้ดูแลเว็บไซต์** — วางไฟล์ PDF ของเอกสาร 8 ฉบับไว้ที่โฟลเดอร์ `static/downloads/` (foundation-charter-v1, project-charter-v1, research-blueprint-v1, tblf-brs01-v0-3, tblf-v0-4, tblf-decision-card-v0-2, tblf-casebook-v0-2, tblf-learning-toolkit-v1-1) แล้วลิงก์ด้านบนจะใช้งานได้ทันที — ส่วน Infographic ทั้ง 7 ชิ้นฝังอยู่ในเว็บไซต์แล้ว
+**สำหรับผู้ดูแลเว็บไซต์** — วางไฟล์ PDF ของเอกสาร 8 ฉบับไว้ที่โฟลเดอร์ `static/downloads/` (foundation-charter-v1, project-charter-v1, research-blueprint-v1, tblf-brs01-v0-3, tblf-v0-4, tblf-decision-card-v0-2, tblf-casebook-v0-2, tblf-learning-toolkit-v1-1, tblf-operational-checklist-v1-0) แล้วลิงก์ด้านบนจะใช้งานได้ทันที — ส่วน Infographic ทั้ง 7 ชิ้นฝังอยู่ในเว็บไซต์แล้ว
 {{< /hint >}}
 
 ## แนวทางการบริหารเอกสาร
