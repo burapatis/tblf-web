@@ -97,8 +97,8 @@ url: /outputs/
 {{< dl href="/images/infographic-casebook-v0-1.png" title="Infographic: TBLF Casebook v0.1" note="รุ่นก่อนหน้า (8 กรณี)" ext="PNG" download="true" >}}
 {{< /downloads >}}
 
-{{< hint warning >}}
-**สำหรับผู้ดูแลเว็บไซต์** — วางไฟล์ PDF ของเอกสาร 8 ฉบับไว้ที่โฟลเดอร์ `static/downloads/` (foundation-charter-v1, project-charter-v1, research-blueprint-v1, tblf-brs01-v0-3, tblf-v0-4, tblf-decision-card-v0-2, tblf-casebook-v0-2, tblf-learning-toolkit-v1-1, tblf-operational-checklist-v1-0, tblf-academic-positioning) แล้วลิงก์ด้านบนจะใช้งานได้ทันที — ส่วน Infographic ทั้ง 7 ชิ้นฝังอยู่ในเว็บไซต์แล้ว
+{{< hint info >}}
+เอกสาร PDF ทั้ง 10 ฉบับและ Infographic ทุกชิ้นพร้อมดาวน์โหลดจากเว็บไซต์นี้โดยตรง — เมื่อเอกสารมีการปรับรุ่น ไฟล์ในหน้านี้จะได้รับการปรับปรุงให้เป็นรุ่นล่าสุดพร้อมบันทึกประวัติ ตามหลักการบริหารเอกสารของ Foundation Charter
 {{< /hint >}}
 
 ## แนวทางการบริหารเอกสาร
