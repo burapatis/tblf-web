@@ -57,7 +57,7 @@ Build command: `hugo --minify` / Publish directory: `public` → Add custom doma
 
 ### ก่อน deploy ทุกครั้ง
 
-- `baseURL` ตั้งเป็นโดเมนจริงแล้ว: `https://www.tblf.thamdee.com/` (แก้ใน `hugo.toml` หากเปลี่ยนโดเมน)
+- `baseURL` ตั้งเป็นโดเมนจริงแล้ว: `https://tblf.thamdee.com/` (แก้ใน `hugo.toml` หากเปลี่ยนโดเมน)
 - HTTPS: ผู้ให้บริการข้างต้นออกใบรับรอง SSL ให้อัตโนมัติ
 
 ---
@@ -87,6 +87,8 @@ tblf-site/
 │   ├── casebook.md            # TBLF Casebook v0.2 — 14 กรณี (/resources/casebook/)
 │   ├── toolkit.md             # TBLF Learning Toolkit v1.1 (/resources/toolkit/)
 │   ├── checklist.md           # TBLF Operational Checklist v1.0 (/resources/checklist/)
+│   ├── quick-checklist.md     # TBLF Quick Checklist 42 กิจกรรม (/resources/quick-checklist/)
+│   ├── positioning.md         # ตำแหน่งทางวิชาการ เทียบ 11 แนวคิด (/framework/positioning/)
 │   ├── decision-logs-hub.md   # หน้ารวมตัวอย่าง Decision Log (/resources/decision-logs/)
 │   ├── dl-01.md … dl-08.md    # ตัวอย่าง Decision Log รายกรณี 8 หน้า
 │   ├── faq.md / glossary.md / contact.md

@@ -3,13 +3,11 @@
 # โครงการการวิจัยและพัฒนากรอบแนวคิดภาวะผู้นำแบบไทยพอดี
 # ============================================================
 
-# โดเมนจริงของโครงการ
+# โดเมนจริงของโครงการ (ตามเอกสาร TBLF v0.4)
 baseURL = 'https://tblf.thamdee.com/'
 languageCode = 'th'
 title = 'ภาวะผู้นำแบบไทยพอดี | Thai Balanced Leadership Framework (TBLF)'
 
-# Rewrite root-relative links to absolute URLs under baseURL
-canonifyURLs = true
 enableEmoji = true
 
 [permalinks]

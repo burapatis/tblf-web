@@ -344,14 +344,6 @@ h1,h2,h3,h4{font-family:var(--font-display);line-height:1.35;color:var(--indigo-
 .site-footer a{color:#C9D4E2;text-decoration:none;font-size:.95rem}
 .site-footer a:hover{color:var(--gold-soft)}
 .footer-base{border-top:1px solid rgba(255,255,255,.12);padding:1.2rem 1.25rem;font-size:.85rem;color:#8B99AC}
-.footer-base-row{
-  display:flex;align-items:center;justify-content:space-between;gap:1rem;flex-wrap:wrap;
-}
-.footer-home{
-  color:var(--gold-soft)!important;font-family:var(--font-display);font-weight:600;font-size:.9rem;
-  text-decoration:none;white-space:nowrap;
-}
-.footer-home:hover{color:#fff!important}
 @media (max-width:860px){.footer-grid{grid-template-columns:1fr;gap:1.8rem}}
 
 /* ---------- Hero badge ---------- */

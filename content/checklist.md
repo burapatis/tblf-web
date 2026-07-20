@@ -175,4 +175,4 @@ url: /resources/checklist/
 {{< dl href="/images/infographic-checklist-4-learn.png" title="Checklist ขั้นเรียนรู้ (23 กิจกรรม)" note="สะท้อนผล พัฒนาอย่างต่อเนื่อง สร้างคุณค่าเพิ่มอย่างยั่งยืน" ext="PNG" download="true" >}}
 {{< /downloads >}}
 
-ใช้ Checklist คู่กับ [Decision Card v0.2](/resources/decision-card/) (คำถามตรวจสอบก่อนตัดสินใจ) และ [Learning Toolkit v1.1](/resources/toolkit/) (Decision Log, AAR, Decision Repository) — ทั้งสามเครื่องมือเป็นระบบเดียวกันตาม [TBLF v0.4](/framework/)
+ใช้ Checklist คู่กับ [Decision Card v0.2](/resources/decision-card/) (คำถามตรวจสอบก่อนตัดสินใจ) และ [Learning Toolkit v1.1](/resources/toolkit/) (Decision Log, AAR, Decision Repository) — ทั้งสามเครื่องมือเป็นระบบเดียวกันตาม [TBLF v0.4](/framework/) และสำหรับการตัดสินใจประจำวันที่ต้องการความรวดเร็ว ใช้ [**Quick Checklist ฉบับ 1–2 นาทีต่อขั้น**](/resources/quick-checklist/)
