@@ -15,11 +15,11 @@ url: /outputs/
 | 2 | Thai Balanced Leadership Framework (TBLF) | องค์ความรู้หลัก | **v0.4 Practitioner-Validated Development Edition** (ฐานวิจัย: BRS-01 v0.3) |
 | 3 | Thai Balanced Leadership Theory (TBLT) ฉบับตั้งต้น | องค์ความรู้หลัก | อยู่ระหว่างพัฒนา |
 | 4 | เครื่องมือวัดภาวะผู้นำแบบไทยพอดี | เครื่องมือและการใช้ | เผยแพร่ [Learning Toolkit v1.1](/resources/toolkit/) พร้อม[ตัวอย่าง Decision Log 8 กรณี](/resources/decision-logs/) แล้ว — เครื่องมือวัดมาตรฐานอยู่ระหว่างพัฒนา |
-| 5 | คู่มือการประยุกต์ใช้ | เครื่องมือและการใช้ | เผยแพร่ [Decision Card v0.2](/resources/decision-card/) · [Casebook v0.2 (14 กรณี)](/resources/casebook/) · [Toolkit v1.1](/resources/toolkit/) · [Operational Checklist v1.0 (87 รายการ)](/resources/checklist/) แล้ว — ฉบับสมบูรณ์อยู่ระหว่างจัดทำ |
+| 5 | คู่มือการประยุกต์ใช้ | เครื่องมือและการใช้ | **เผยแพร่ [Quick Start Guide v1.0 (Canonical Manual)](/resources/quick-start/)** · [Decision Card v0.2](/resources/decision-card/) · [Casebook v0.2](/resources/casebook/) · [Toolkit v1.1](/resources/toolkit/) · [Operational Checklist v1.0](/resources/checklist/) แล้ว — คู่มือฉบับสมบูรณ์จะพัฒนาต่อจาก Canonical Manual นี้ |
 | 6 | หลักสูตรอบรมผู้บริหารสถานศึกษา | เครื่องมือและการใช้ | อยู่ระหว่างออกแบบ |
 | 7 | หนังสือวิชาการ | การเผยแพร่ | อยู่ระหว่างเรียบเรียง |
 | 8 | เว็บไซต์ฐานองค์ความรู้ | การเผยแพร่ | **เปิดใช้งานแล้ว** |
-| 9 | ชุด Infographic และสื่อการเรียนรู้ | การเผยแพร่ | **เผยแพร่แล้ว 17 ชิ้น** — ชุดปัจจุบัน 14 (Checklist 4 + Quick Checklist 4 + Positioning 2) + รุ่นก่อนหน้า 3 ([ดูทั้งหมด](/resources/)) |
+| 9 | ชุด Infographic และสื่อการเรียนรู้ | การเผยแพร่ | **เผยแพร่แล้ว 29 ชิ้น** — ชุดปัจจุบัน 26 (รวม Quick Start Guide 12 หน้า) + รุ่นก่อนหน้า 3 ([ดูทั้งหมด](/resources/)) |
 | 10 | บทความวิจัยระดับชาติและนานาชาติ | การเผยแพร่ | อยู่ระหว่างจัดทำ — เผยแพร่บทวิเคราะห์ [การวางตำแหน่งทางวิชาการของ TBLF](/framework/positioning/) เป็นชุดแรกแล้ว |
 
 ## ผลลัพธ์ที่คาดหวัง
@@ -68,6 +68,7 @@ url: /outputs/
 {{< dl href="/downloads/tblf-learning-toolkit-v1-1.pdf" title="TBLF Learning Toolkit v1.1" note="เครื่องมือภาคสนาม 5 ชิ้น + Coding Manual + Evidence Matrix" >}}
 {{< dl href="/downloads/tblf-operational-checklist-v1-0.pdf" title="TBLF Operational Checklist v1.0" note="แบบตรวจสอบการดำเนินงาน 4 ขั้น 87 รายการ ฉบับพิมพ์ใช้งาน" >}}
 {{< dl href="/downloads/tblf-academic-positioning.pdf" title="การวางตำแหน่งทางวิชาการของ TBLF" note="บทวิเคราะห์เปรียบเทียบกับ 11 แนวคิดสำคัญ — รับมา เพิ่มเติม แตกต่าง" >}}
+{{< dl href="/downloads/tblf-quick-start-guide-v1-0.pdf" title="TBLF Quick Start Guide v1.0 (Mini Handbook)" note="คู่มือเริ่มต้นใช้งานฉบับ Infographic 12 หน้า — พิมพ์ A5 หรือเปิดบนมือถือ" >}}
 {{< /downloads >}}
 
 **ชุด Infographic ปัจจุบัน (เผยแพร่แล้ว)**

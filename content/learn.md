@@ -86,5 +86,5 @@ TBLF ผ่านการทดลองนำร่องกับผู้ใ
 {{< /downloads >}}
 
 {{< hint info >}}
-**ขั้นต่อไป** — ลองใช้ [TBLF Decision Card](/resources/decision-card/) เป็นรายการตรวจสอบก่อนตัดสินใจจริง หรือศึกษา[กรอบแนวคิดฉบับเต็ม BRS-01 v0.3](/framework/)
+**ขั้นต่อไป** — พร้อมลงมือแล้ว? เริ่มที่ [Quick Start Guide v1.0 — คู่มือเริ่มต้นใช้งาน 12 หน้า](/resources/quick-start/) ลองใช้ [Decision Card](/resources/decision-card/) ก่อนตัดสินใจจริง หรือศึกษา[กรอบแนวคิดฉบับเต็ม](/framework/)
 {{< /hint >}}

@@ -88,6 +88,7 @@ tblf-site/
 │   ├── toolkit.md             # TBLF Learning Toolkit v1.1 (/resources/toolkit/)
 │   ├── checklist.md           # TBLF Operational Checklist v1.0 (/resources/checklist/)
 │   ├── quick-checklist.md     # TBLF Quick Checklist 42 กิจกรรม (/resources/quick-checklist/)
+│   ├── quick-start.md         # TBLF Quick Start Guide 12 หน้า (/resources/quick-start/)
 │   ├── positioning.md         # ตำแหน่งทางวิชาการ เทียบ 11 แนวคิด (/framework/positioning/)
 │   ├── decision-logs-hub.md   # หน้ารวมตัวอย่าง Decision Log (/resources/decision-logs/)
 │   ├── dl-01.md … dl-08.md    # ตัวอย่าง Decision Log รายกรณี 8 หน้า
