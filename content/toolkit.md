@@ -77,6 +77,10 @@ url: /resources/toolkit/
 
 สถานศึกษาสรุปทุก Decision Log ลงฐานข้อมูลกลาง ด้วยฟิลด์: **วันที่ | สถานการณ์ | บริบท | ทางเลือก | หลักฐาน | การตัดสินใจ | ผลลัพธ์ | บทเรียน | ข้อเสนอเพื่อพัฒนา TBLF**
 
+{{< hint info >}}
+**ช่องทางออนไลน์พร้อมใช้แล้ว** — ส่งข้อมูลเข้าสู่ Decision Repository ได้สะดวกผ่าน [แบบบันทึกผลการใช้และแลกเปลี่ยนการเรียนรู้ TBLF (Google Form)](/resources/report-form/) ครอบคลุมการใช้ 4 ขั้น ฐานกำกับ ผลลัพธ์ ตัวอย่างการตัดสินใจ และการแนบหลักฐาน
+{{< /hint >}}
+
 ## Coding Manual v1.0 (ใหม่ใน v1.1)
 
 รหัสมาตรฐาน 15 รหัส สำหรับวิเคราะห์ข้อมูลจาก Decision Log, AAR, Workshop และการสัมภาษณ์ ด้วยเกณฑ์เดียวกัน
@@ -129,4 +133,4 @@ url: /resources/toolkit/
 {{< dl href="/images/infographic-toolkit-v1-0.png" title="Infographic: TBLF Learning Toolkit v1.0" note="ภาพรวมเครื่องมือ 5 ชิ้นและ Workflow ภาคสนาม" ext="PNG" download="true" >}}
 {{< /downloads >}}
 
-ต้องการรายการตรวจสอบละเอียดรายขั้นสำหรับกำกับการดำเนินงาน ใช้ [TBLF Operational Checklist v1.0 — 87 รายการใน 4 ขั้น](/resources/checklist/) ควบคู่กับ Toolkit นี้ · สถานศึกษาหรือหน่วยงานที่สนใจร่วมทดลองใช้และส่งหลักฐานเข้าสู่ Decision Repository [ติดต่อทีมโครงการ](/contact/)
+ต้องการรายการตรวจสอบละเอียดรายขั้นสำหรับกำกับการดำเนินงาน ใช้ [TBLF Operational Checklist v1.0 — 87 รายการใน 4 ขั้น](/resources/checklist/) ควบคู่กับ Toolkit นี้ · ส่งหลักฐานเข้าสู่ Decision Repository ผ่าน[แบบบันทึกผลการใช้ออนไลน์](/resources/report-form/) หรือ[ติดต่อทีมโครงการ](/contact/)

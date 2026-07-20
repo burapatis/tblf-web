@@ -14,7 +14,7 @@ url: /outputs/
 | 1 | รายงานวิจัยและพัฒนา (R&D) | องค์ความรู้หลัก | อยู่ระหว่างดำเนินการ |
 | 2 | Thai Balanced Leadership Framework (TBLF) | องค์ความรู้หลัก | **v0.4 Practitioner-Validated Development Edition** (ฐานวิจัย: BRS-01 v0.3) |
 | 3 | Thai Balanced Leadership Theory (TBLT) ฉบับตั้งต้น | องค์ความรู้หลัก | อยู่ระหว่างพัฒนา |
-| 4 | เครื่องมือวัดภาวะผู้นำแบบไทยพอดี | เครื่องมือและการใช้ | เผยแพร่ [Learning Toolkit v1.1](/resources/toolkit/) พร้อม[ตัวอย่าง Decision Log 8 กรณี](/resources/decision-logs/) แล้ว — เครื่องมือวัดมาตรฐานอยู่ระหว่างพัฒนา |
+| 4 | เครื่องมือวัดภาวะผู้นำแบบไทยพอดี | เครื่องมือและการใช้ | เผยแพร่ [Learning Toolkit v1.1](/resources/toolkit/) · [ตัวอย่าง Decision Log 8 กรณี](/resources/decision-logs/) · **[แบบบันทึกผลการใช้ออนไลน์](/resources/report-form/)** แล้ว — เครื่องมือวัดมาตรฐานอยู่ระหว่างพัฒนา |
 | 5 | คู่มือการประยุกต์ใช้ | เครื่องมือและการใช้ | **เผยแพร่ [Quick Start Guide v1.0 (Canonical Manual)](/resources/quick-start/)** · [Decision Card v0.2](/resources/decision-card/) · [Casebook v0.2](/resources/casebook/) · [Toolkit v1.1](/resources/toolkit/) · [Operational Checklist v1.0](/resources/checklist/) แล้ว — คู่มือฉบับสมบูรณ์จะพัฒนาต่อจาก Canonical Manual นี้ |
 | 6 | หลักสูตรอบรมผู้บริหารสถานศึกษา | เครื่องมือและการใช้ | อยู่ระหว่างออกแบบ |
 | 7 | หนังสือวิชาการ | การเผยแพร่ | อยู่ระหว่างเรียบเรียง |

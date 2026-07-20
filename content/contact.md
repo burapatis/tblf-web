@@ -23,6 +23,7 @@ url: /contact/
 - **ผู้วิจัย:** Boorapatis Ploysuwan (ผู้วิจัยอิสระ)
 - **อีเมล:** [burapatis@gmail.com](mailto:burapatis@gmail.com)
 - **เว็บไซต์:** [tblf.thamdee.com](https://tblf.thamdee.com/)
+- **บันทึกผลการทดลองใช้ TBLF:** [แบบบันทึกผลการใช้และแลกเปลี่ยนการเรียนรู้ (ออนไลน์)](/resources/report-form/)
 
 ## แผนการสร้างเครือข่ายในระยะถัดไป
 
